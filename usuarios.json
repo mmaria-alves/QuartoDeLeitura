@@ -1,0 +1,28 @@
+{
+    "usuarios": {
+        "maria@gmail.com": {
+            "nome": "Maria",
+            "idade": "18",
+            "senha": "456789",
+            "estado": "PE",
+            "cidade": "Recife",
+            "livrosDigitais": "1",
+            "livrosFisicos": "3",
+            "preferência": "físico",
+            "horasEstudo": "8",
+            "horasEntretenimento": "6"
+        },
+        "marianne@gmail.com": {
+            "nome": "Marianne",
+            "idade": "16",
+            "senha": "123456",
+            "estado": "PE",
+            "cidade": "Recife",
+            "livrosDigitais": "3",
+            "livrosFisicos": "2",
+            "preferência": "físico",
+            "horasEstudo": "10",
+            "horasEntretenimento": "8"
+        }
+    }
+}
